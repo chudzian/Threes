@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">3\'s!</string>
+    <string name="btn_start">PLAY</string>
+    <string name="high_score">High Score: </string>
+    <string name="score">Score: </string>
+    <string name="your_score">Your score: </string>
+    <string name="your_lost">You lost!\n</string>
+    <string name="contains">contains \"3\" digit!</string>
+    <string name="next_level">Next level:</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+    <string name="start">Start</string>
+    <string name="Start">Threes! \n Number 3 is the only rule. \n Seems simple? We\'ll see!</string>
+    <string name="clock_is_ticking">Clock is ticking! You have limited time for reaction, otherwise you loose! </string>
+    <string name="numberpresented">Every 3 seconds a number is presented to you. If number contains \'3\' digit or is divisible by it, simply tap the screen</string>
+    <string name="ifdosent">If number doesn\'t meet the conditions, it will disappear after time is up. You can speed it up by swiping right</string>
+    <string name="numbersincrease">When the game is running for a while, \n the values of numbers are increasing.</string>
+    <string name="looksdifficult">Looks difficult? Only at first glance. There is a rule in math, that says: if sum of every digit in a number is divisible by 3, then whole number is divisible.\n 174: 1 + 7 + 4 = 12, 12 ÷ 3 = 4\nSee? Simple!  </string>
+    <string name="tryagain">TRY AGAIN</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="level_up">Level up!</string>
+    <string name="new_record">New record!</string>
+    <string name="start_score">Score: 0</string>
+    <string name="level">"Level: "</string>
+    <string name="next_level_progress">,  Next level:</string>
+
+</resources>
